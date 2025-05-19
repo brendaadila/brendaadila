@@ -1,16 +1,19 @@
-## Hi there 👋
+Oiee… Eu sou a Brenda Adila !
 
-<!--
-**brendaadila/brendaadila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Sou estudante de Análise e Desenvolvimento de Sistemas
+-Em formação como QA, com foco em testes manuais e automatizados
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que estou aprendendo:
+- HTML, CSS, JavaScript, Python 
+- Git e GitHub
+-Trello, Jira, Qase
+
+
+📫 Onde me encontrar:
+- [LinkedIn] https://www.linkedin.com/in/brenda-adila-moreira-490609351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+
+💡 “Cada passo dado hoje molda o seu dia de amanhã."
+
+atualiza readme do perfil
