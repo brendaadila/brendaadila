@@ -8,6 +8,8 @@ Oiee… Eu sou a Brenda Adila !
 - HTML, CSS, JavaScript, Python 
 - Git e GitHub
 -Trello, Jira, Qase
+-Codeceptjs
+-Playwright 
 
 
 📫 Onde me encontrar:
